@@ -30,6 +30,7 @@ main {
 a {
   color: #ffffffd9;
   text-decoration: none;
+  transition-duration: 2s;
 }
 
 a:hover {
@@ -58,14 +59,19 @@ ul .menu-nav-item {
   text-decoration: none;
 }
 
-img {
+.img-alexandre {
   border-radius: 50%;
   height: 500px;
   margin: auto;
   margin-top: 100px;
   width: 500px;
 }
-
+.img-construction {
+  display: flex;
+  margin: auto;
+  margin-top: 150px;
+  width: 55%;
+}
 main .about-me {
   /* border: 1px solid black; */
   border-radius: 8px;
