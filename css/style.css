@@ -73,7 +73,6 @@ ul .menu-nav-item {
   width: 55%;
 }
 main .about-me {
-  /* border: 1px solid black; */
   border-radius: 8px;
   display: flex;
   flex-direction: column;
